@@ -2,7 +2,7 @@
 + reduce redundant (redux-box, ducks, recompose)
 + code split (react-loodable)
 
-## Feature
+## Features
 + [redux-box](https://github.com/anish000kumar/redux-box#or-through-render-props)
 + [recompose](https://github.com/acdlite/recompose/blob/master/docs/API.md#withstatehandlers)
 + [react-router](https://reacttraining.com/react-router/web/guides/quick-start)
